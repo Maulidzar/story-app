@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="invalid_username">Wrong username!</string>
+    <string name="invalid_password">Password must be at least 8 characters!</string>
+    <string name="title_activity_story">StoryActivity</string>
+    <string name="camera">CameraX</string>
+    <string name="gallery">Gallery</string>
+    <string name="description">Image Description</string>
+    <string name="upload">Upload</string>
+    <string name="retry">Retry</string>
+    <string name="setting">Setting</string>
+    <string name="logout">Logout</string>
+    <string name="story_incorrect">Add description first!</string>
+    <string name="make_account">Want to create account?</string>
+    <string name="name">username</string>
+    <string name="enter_email">email</string>
+    <string name="enter_password">password</string>
+    <string name="empty">No Data!</string>
+    <string name="log_out">Logged out</string>
+    <string name="error_logout">Logout Failed</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="success_login">Login success</string>
+    <string name="invalid_login">"Please input username and password correctly!"</string>
+    <string name="success_register">Register success</string>
+    <string name="invalid_register">Register Failed</string>
+    <string name="permission">Please change application permission in the settings!</string>
+    <string name="share_location">Share Location</string>
+    <string name="loc_error">Location Error</string>
+</resources>
